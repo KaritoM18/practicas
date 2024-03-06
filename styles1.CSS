@@ -1,0 +1,29 @@
+nav {
+  background-color: #333;
+  padding: 10px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+a:hover {
+  color: red;
+}
+
+menu li a :hover
+             {
+             	background-color: red;
+                  margin-top:  -2;
+                  padding-bottom: 12px;
+               }
+
+menu li a :hover   
+           {
+               cursor:url(cobachito.png)
+               background-color: red;
+                margin-top: -2;
+                padding-bottom: 12px;]
+            }
